@@ -12,4 +12,8 @@ The validation of the studied fractional-order model using real COVID-19  data  
 # Conclusions:
 Fractional-order epidemiological models might play an important role in understanding and predicting the spread of the COVID-19, also providing relevant guidelines for controlling the pandemic.
 
-# Please cite theis paper: Bahloul, Mohamed A., Abderrazak Chahid, and Taous-Meriem Laleg-Kirati. "Fractional-order SEIQRDP model for simulating the dynamics of COVID-19 epidemic." IEEE Open Journal of Engineering in Medicine and Biology 1 (2020): 249-256.
+# Please cite this paper:
+
+Bahloul, Mohamed A., Abderrazak Chahid, and Taous-Meriem Laleg-Kirati. "Fractional-order SEIQRDP model for simulating the dynamics of COVID-19 epidemic." IEEE Open Journal of Engineering in Medicine and Biology 1 (2020): 249-256.
+
+https://ieeexplore.ieee.org/abstract/document/9178435
